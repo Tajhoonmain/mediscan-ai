@@ -185,15 +185,8 @@ All results are reported with **weighted averages** to account for class imbalan
 
 | Name | Student ID | Role |
 |------|-----------|------|
-| [Member 1] | [ID] | Preprocessing + Naive Bayes |
-| [Member 2] | [ID] | Rocchio + Evaluation |
-| [Member 3 — Group Leader] | [ID] | kNN + Demo UI + Report |
+| Wardah | 2022622 | Preprocessing + Naive Bayes |
+| Arbaz | 2022106 | Rocchio + Evaluation |
+| Maryam Taj | 2022907 | kNN + Demo UI + Report |
 
 ---
-
-## References
-
-1. Manning, C. D., Raghavan, P., & Schütze, H. (2008). *Introduction to Information Retrieval*. Cambridge University Press.
-2. Scikit-learn documentation: https://scikit-learn.org/stable/
-3. Health News in Twitter Dataset: UCI Machine Learning Repository
-4. Bag of Words Dataset: UCI Machine Learning Repository
